@@ -1,6 +1,9 @@
 {
-  "homepage": "https://satishawal.github.io/SatishPortfolio",
+  "homepage": "https://satishkumarsingh.github.io/portfolio_satish",
   "repository": {
+    "type": "git",
+    "url": "https://github.com/satishkumarsingh/portfolio_satish.git"
+  },
   "name": "portfolio_satish",
   "version": "0.1.0",
   "private": true,
