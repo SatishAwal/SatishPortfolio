@@ -1,9 +1,5 @@
 {
-  "homepage": "https://satishkumarsingh.github.io/portfolio_satish",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/satishkumarsingh/portfolio_satish.git"
-  },
+  "homepage": "https://satishawal.github.io/SatishPortfolio/",
   "name": "portfolio_satish",
   "version": "0.1.0",
   "private": true,
@@ -19,8 +15,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -b master -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
